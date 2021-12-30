@@ -1,4 +1,4 @@
 someProp: someVal2
 kafka.consumer. groupId=someGroupId
 kafka.consumer.clientId=someClientId
-kafka.consumer.topic=someTopic
+kafka.consumer.topic=someTopic2
